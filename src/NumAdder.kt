@@ -1,4 +1,4 @@
-//Programming challenge from here:
+// Programming challenge from here:
 // https://www.reddit.com/r/dailyprogrammer/comments/aphavc/20190211_challenge_375_easy_print_a_new_number_by/?ref=share&ref_source=link
 
 fun adder(x: Int): Int {
